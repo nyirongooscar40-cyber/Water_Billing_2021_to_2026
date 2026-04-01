@@ -3,7 +3,11 @@
 This project analyzes municipal water billing data from 2021 to 2026 across multiple locations and billing classes. The dataset includes monthly billing amounts, water consumption quantities, and the number of active contract accounts.
 
 ### Objective
-To uncover trends in water revenue, consumption behavior, and customer distribution, and to provide actionable insights for operational and financial decision-making.
+
+This analysis examines water billing data for Cape Town from 2021 to 2026, focusing on how revenue performs across different locations and billing classes.
+It highlights trends, growth patterns, and efficiency, while identifying areas that perform exceptionally well or poorly. The analysis also compares current revenue with previous years to track changes over time.
+Additionally, it explores whether revenue is driven more by water consumption (quantity) or pricing efficiency, helping to uncover possible billing issues or inconsistencies.
+Overall, the goal is to provide clear insights into top-performing and underperforming locations, supporting better decision-making and improved revenue management.
 
 ### Dataset Features
 Location (geographical areas).
@@ -21,9 +25,11 @@ Seasonal demand fluctuations.
 Location-based performance comparison.
 
 ### Tools & Technologies
-SQL (data transformation & querying).
+DataBricks/SQL (data transformation & querying).
 Excel / Power BI (dashboarding).
 Python (data exploration).
+MIRO (Step by Step Project Planning)
+Canva (Gantt Chart)(Project Planning duration)
 
 ### Business Value
 This analysis helps decision-makers:
